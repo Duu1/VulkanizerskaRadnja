@@ -39,7 +39,7 @@ public class AutoGuma {
 	/**
 	 * Metoda kojom se za model gume postavlja konkretna vrednost.
 	 * 
-	 * @param markaModel - nova vrednost modela gume
+	 * @param markaModel nova vrednost modela gume
 	 * 
 	 * @throws java.lang.RuntimeException u slucaju da je 
 	 * parametar model null String ili String kraci od 3 karaktera.
@@ -60,7 +60,7 @@ public class AutoGuma {
 	/**
 	 * Metoda kojom se za precnik gume postavlja konkretna vrednost.
 	 * 
-	 * @param precnik - nova vrednost precnika gume
+	 * @param precnik nova vrednost precnika gume
 	 * 
 	 * @throws java.lang.RuntimeException u slucaju da je 
 	 * vrednost parametra precnik manja od 13 ili veca od 22.
@@ -81,7 +81,7 @@ public class AutoGuma {
 	/**
 	 * Metoda kojom se za sirina gume postavlja konkretna vrednost.
 	 * 
-	 * @param sirina - nova vrednost sirine gume
+	 * @param sirina nova vrednost sirine gume
 	 * 
 	 * @throws java.lang.RuntimeException u slucaju da je 
 	 * vrednost parametra sirina manja od 135 ili veca od 355.
@@ -102,7 +102,7 @@ public class AutoGuma {
 	/**
 	 * Metoda kojom se za visinu gume postavlja konkretna vrednost.
 	 * 
-	 * @param visina - nova vrednost visine gume
+	 * @param visina nova vrednost visine gume
 	 * 
 	 * @throws java.lang.RuntimeException u slucaju da je 
 	 * vrednost parametra visina manja od 25 ili veca od 95.
