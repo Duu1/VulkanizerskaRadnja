@@ -1,10 +1,7 @@
 # Advanced Java course
-Task 1 - Javadoc &amp; JUnit
+Task 5 - JSON
 
 ## Description
 
-<img src="http://jgrass.fon.bg.ac.rs/wp-content/uploads/2015/03/2-junit-tester-100x100.png" alt="JUnit Tester">
-JUnit Tester is capable of defining basic unit tests for the specific programming tasks. They use JUnit annotations to define tests and are able to run the tests from the Eclipse IDE.
-
-<img src="http://jgrass.fon.bg.ac.rs/wp-content/uploads/2015/03/3-javadoc-documenter-100x100.png" alt="JavaDoc Documenter">
-JavaDoc Documenter uses basic JavaDoc tags when documenting their code. They understand the need for well documenting the code they write and know how to generate a documentation out of JavaDoc described source code.
+<img src="http://jgrass.fon.bg.ac.rs/wp-content/uploads/2015/03/6-json-rookie-100x100.png" alt="JSON Rookie">
+JSON Rookie knows how to generate and interpret data represented in JSON format. They use Java libraries for JSON processing in order to generate and read data stored in JSON files or from an online service.
