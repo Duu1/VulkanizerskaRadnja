@@ -1,5 +1,5 @@
 # Advanced Java course
-Task 1 - Javadoc &amp; JUnit
+Task 2 - Javadoc &amp; JUnit
 
 ## Description
 
